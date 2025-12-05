@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Questions">
+        <file>Questions.dat</file>
+    </qresource>
+</RCC>
